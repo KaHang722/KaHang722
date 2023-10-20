@@ -38,4 +38,4 @@ I am actively seeking opportunities to collaborate with dynamic organizations as
 
 Feel free to explore my projects and connect with me on LinkedIn for more insights and collaborations. Let's dive into the world of data together!
 
-[Connect with me on LinkedIn](https://www.linkedin.com/in/kahangchan)
+[Connect with me on LinkedIn](https://www.linkedin.com/in/ka-hang-chan/)
