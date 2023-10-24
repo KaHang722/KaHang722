@@ -24,7 +24,7 @@ Feel free to browse through and let me know if you have any questions or if you'
 
 ## 🌱 Volunteer Experience
 
-- **Data Cleaning Volunteer** at Data For Good Toronto (October 2023 – NOW): Contributed to a data cleaning project for a non-profit organization.
+- **Volunteer at Data For Good Toronto** (October 2023 – NOW): Contributed to a data cleaning project for a non-profit organization.
 
 I am actively seeking opportunities to collaborate with dynamic organizations as a Data Analyst or Business Intelligence Analyst, where I can apply my skills and expertise to make a tangible impact.
 
