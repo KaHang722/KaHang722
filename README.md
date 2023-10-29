@@ -18,13 +18,17 @@ Feel free to browse through and let me know if you have any questions or if you'
 
 ## 📜 Certificates & Trainings
 
-- **Google Advanced Data Analytics Professional Certificate** (July 2023).
-- **Google Business Intelligence Professional Certificate** (April 2023).
-- **Career Essentials in Data Analysis by Microsoft and LinkedIn** (February 2023).
+- **[Professional Scrum Master™ I (PSM I)](https://www.credly.com/badges/d7ce2a82-ed90-45ff-b53d-adbff1801c9d/linked_in_profile)** (Oct 2023)
+- **[Google Advanced Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/3DZ2LF7ZNBPV)** (July 2023).
+- **[Google Business Intelligence Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/5Z45XPPF8UPT)** (April 2023).
+- **[Career Essentials in Data Analysis by Microsoft and LinkedIn](https://www.linkedin.com/learning/certificates/3db62b1c4f497d46868fc08d7eb149ea39d6a93643bfc30cb0675c336721ca59?u=2218586)** (February 2023).
 
 ## 🌱 Volunteer Experience
 
 - **Volunteer at Data For Good Toronto** (October 2023 – NOW): Contributed to a data cleaning project for a non-profit organization.
+- **Volunteer at the Immigrants in Tech Summit 2023 (Organized by Scale Without Borders)** (October 2023): Assisted with event operations to ensure the smooth flow of activities and enhanced the experience for all attendees.
+
+## 🚀 Career Aspirations
 
 I am actively seeking opportunities to collaborate with dynamic organizations as a Data Analyst or Business Intelligence Analyst, where I can apply my skills and expertise to make a tangible impact.
 
